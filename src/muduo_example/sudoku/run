@@ -1,0 +1,8 @@
+shell_path=$(cd "$(dirname "$0")"; pwd)
+
+cd $shell_path
+make clean
+make
+sz test
+
+

@@ -1,0 +1,4 @@
+--doc:hasy文档
+--src:源码目录，包含base&net
+--lib：静态库
+--h：额外头文件（非base&net）
